@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "e48045d4-6670-34ce-ad86-37d24aebc205",
+    "name": "william_21123",
+    "created": "2024-02-23 17:18:32 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "3ba7abbd-dd23-36d3-a9c9-49369010939b",
+    "name": "william_211233",
+    "created": "2024-02-23 17:18:48 +0000",
+    "source": "ITaxRacists",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "39673df1-9653-3d2c-84e6-534de3b93985",
+    "name": "william_paschal",
+    "created": "2024-02-20 22:24:45 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Being Gay?!"
+  }
+]
